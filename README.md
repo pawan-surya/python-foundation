@@ -106,3 +106,12 @@ Tips:
 - Estimate 6–12 hours/week; adjust pace to personal schedule.
 - Keep weekly retrospectives: what went well, what to change.
 - Track progress in the repository README.
+
+
+###
+```
+Goal: Become production‑ready in Python core + async + file I/O + OOP + error handling + modules + packaging.
+Style: Practical, system-level, backend-focused.
+Daily Time: 2–3 hours.
+```
+
