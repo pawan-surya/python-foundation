@@ -20,6 +20,3 @@ print(y)  # Output: 143
 a = 10
 b =10.8
 c = "surya"
-print(type(a))
-print(type(b))
-print(type(c))
